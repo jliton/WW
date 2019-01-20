@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>test_1.js</name>
+			<type>1</type>
+			<location>C:/Users/Jabed/Downloads/Django/Django-Python-Full-Stack-Web-Developer-Material/Django-Python-Full-Stack-Web-Devloper-master/javascriptCourse/test_1.js</location>
+		</link>
+	</linkedResources>
+</projectDescription>
