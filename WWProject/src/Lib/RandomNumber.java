@@ -29,7 +29,7 @@ public class RandomNumber {
 		for(Integer i:randomNumbers) {
 			System.out.println(i);
 		}
-		
+		///
 		Integer min=Collections.min(randomNumbers);
 		System.out.println("Minimum number was: "+ min);
 
